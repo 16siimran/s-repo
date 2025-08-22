@@ -94,17 +94,3 @@ nav a {
   list-style: none;
   margin-bottom: 10px;
 }
-
-#cart button {
-  background: red;
-  color: white;
-  border: none;
-  padding: 5px 8px;
-  margin-left: 10px;
-  cursor: pointer;
-  border-radius: 5px;
-}
-
-#cart button:hover {
-  background: darkred;
-}
